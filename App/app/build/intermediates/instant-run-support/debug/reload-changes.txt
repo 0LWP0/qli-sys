@@ -1,0 +1,6 @@
+CHANGED,/Users/qli/Git/App/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/q/app/MainActivity$override.class
+CHANGED,/Users/qli/Git/App/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/q/app/MainActivity$3$override.class
+CHANGED,/Users/qli/Git/App/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/qli/Git/App/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/q/app/MainActivity$4$override.class
+CHANGED,/Users/qli/Git/App/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/q/app/MainActivity$1$override.class
+CHANGED,/Users/qli/Git/App/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/q/app/MainActivity$2$override.class

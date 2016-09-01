@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/qli/Git/App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/qli/Git/App/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/qli/Git/App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/android_q.png",
+        "source": "/Users/qli/Git/App/app/src/main/res/mipmap-xxhdpi/android_q.png"
+    }
+]
